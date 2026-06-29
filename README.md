@@ -10,6 +10,18 @@
 
 ---
 
+## Teknologi yang Digunakan
+
+| Package | Kegunaan |
+|---------|----------|
+| `flutter_bloc` | State management — mengelola state Auth, Cart, Order, Product |
+| `http` | Koneksi HTTP ke REST API Laravel |
+| `shared_preferences` | Menyimpan token JWT di perangkat |
+| `intl` | Format angka & tanggal (Rupiah) |
+| `google_fonts` | Tipografi |
+
+---
+
 ## Fitur
 
 - 🔐 Login & Register akun pelanggan
